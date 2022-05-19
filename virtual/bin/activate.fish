@@ -29,7 +29,11 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/home/riley12/Desktop/ExpenseTracker/virtual"
+=======
+set -gx VIRTUAL_ENV "/home/jidraph/Desktop/Dev/ExpenseTracker/virtual"
+>>>>>>> aae1ad003874d7d2bbceae29f410ad5e1a98fa1d
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
